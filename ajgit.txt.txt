@@ -1,1 +1,1 @@
-This is a first git repositry.
+This is my second git repositary
