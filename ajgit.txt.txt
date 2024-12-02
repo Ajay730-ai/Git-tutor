@@ -1,1 +1,1 @@
-This is a first version of software of my windows 10
+This is a first git repositry.

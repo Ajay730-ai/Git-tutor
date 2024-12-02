@@ -1,1 +1,1 @@
-quality of software efficient and effective
+this is my first software related to git
