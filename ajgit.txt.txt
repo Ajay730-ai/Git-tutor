@@ -1,1 +1,1 @@
-This is my 3 git repositary
+This is my version 2 software of git reposetary.
